@@ -23,3 +23,7 @@ It does **not** ship Polarisor-ecosystem integrations (SSoT diff, Prolusion, Pil
 ## Skills
 
 Bundled Cursor skills use the **`pc-os-*`** prefix to avoid clashing with other `pc-*` skill packs.
+
+## License
+
+**MIT** — commercial use allowed; redistributions must include the copyright notice and license text ([LICENSE](LICENSE)).
